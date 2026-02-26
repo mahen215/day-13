@@ -1,0 +1,24 @@
+Today, I attended an amazing session on DevOps Cloud Engineering, where we covered an important scripting concept: If-Else Conditional Statements.
+
+🔹 What I Learned About If-Else:
+
+How decision-making works in programming and shell scripting
+
+Writing conditional statements using if, elif, and else
+
+How systems take actions based on specific conditions
+
+Real-time DevOps use cases like:
+✅ Checking server status
+✅ Validating user input
+✅ Automating deployment decisions
+✅ Monitoring services and triggering alerts
+
+💡 In DevOps, automation is everything — and automation depends on logic.
+Understanding if-else helps in writing smarter scripts that can make decisions automatically without manual intervention.
+
+A big thank you to my mentor Khushal Malik for explaining the concept with practical examples and real-world scenarios. Your guidance is helping me strengthen my scripting and automation skills. 🙏
+
+Excited to continue this journey towards becoming a DevOps Cloud Engineer! ☁️💻
+
+#DevOps #CloudEngineer #LearningJourney #IfElse #Automation #ShellScripting #StudentLife
